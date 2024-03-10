@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": false,
+    "forceConsistentCasingInFileNames": true,
+    "isolatedModules": true,
+    "lib": ["esnext"],
+    "module": "nodenext",
+    "moduleResolution": "nodenext",
+    "noEmitOnError": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "target": "esnext",
+  },
+  "exclude": ["node_modules"],
+  "include": ["src/**/*.ts"],
+}
